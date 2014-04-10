@@ -17,6 +17,6 @@
 	
 - sklearn (houses - income prediction)
 
-By Next Tuesday I should push the data on github for the weather data and eigan vector…
+##By Next Tuesday I should push the data on github for the weather data and eigan vector…
 
 
