@@ -3,7 +3,8 @@
 ## Regression notebook (from Stanford)
  http://nbviewer.ipython.org/github/jbpoline/bayfmri/blob/master/notebooks/005-Simple-Linear-Regression.ipynb
  
-	- esto oti exoume samples apo weather data kata ti diarkeia tou xronou prospathoume na xrisimopoiisoume ena sunolo apo kampules gia na ta apotuposoume. An b_i i sunartisi tis kampulis  tote f(t) = Σ ai*bi(t)
+
+	- Let's assume that we have samples of weather data from throughout the year and we try to use a set of curves to reprsent the initial data. If the curve's function is bi then f(t) = Σ (ai*bi(t))
 	
 	- Other methods: 
 		-	Bias: systematic error we had the original function, we added noise and then we got the estimation (what if we took the average?!) The initial data and the estimation is overlap perfectly so it is unbiased. If we had uniform noise then we would have bias (they don't overalp perfectly!) We always have a systematic error!!
