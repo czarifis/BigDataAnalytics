@@ -7,19 +7,19 @@ This course is an introduction to big data analytics. The course will cover algo
 
 ##Curriculum
 
-1. #####AWS, EC2, S3, Git and Github.
-2. #####The IPython notebooks environment
+1. #####	AWS, EC2, S3, Git and Github.
+2. #####	The IPython notebooks environment
 	-	Using notebooks on AWS.
 	-	numpy and Pandas.
 	-	Matplotlib.
-3.	#####Performance and the memory Hierarchy.
-4.	#####I/O efficient sorting.
-5.	#####Statistical Models and Compression.
+3.	#####	Performance and the memory Hierarchy.
+4.	#####	I/O efficient sorting.
+5.	#####	Statistical Models and Compression.
 	-	Linear regression, LPC and vocoders.
 	-	Vector quantization and K-Means.
 	-	Singular value decomposition and compressing of cyclical signals.
 	-	Kolmogorov Complexity and Kolmogorov Sufficient statistics.
-6.	#####The Map-Reduce framework.
+6.	#####	The Map-Reduce framework.
 	-	HDFS, Hadoop and map-reduce.
 	-	Word-count
 	-	Vector-Matrix Multiplication
@@ -27,18 +27,18 @@ This course is an introduction to big data analytics. The course will cover algo
 	-	Projections
 	-	Natural Join
 	-	Aggregation.
-7. 	#####The art of sampling
+7. 	#####	The art of sampling
 	-	Estimation through sampling, Hoeffding bound, Gilvenco-Cantelli theorem.
 	-	Empirical Bernstein inequality and sequential estimation.
 	-	Stratified sampling.
-8.	#####Column-based databases.
+8.	#####	Column-based databases.
 	-	HBase, Comparison of HBase to HDFS
 	-	Hashing
 	-	Min-Hash and finding similar documents.
 	-	Locality Sensitive Hashing.
 	-	LSH for L1 and L2 distances.
 	-	LSH for the Entity resolution problem
-9.	#####Streaming algorithms.
+9.	#####	Streaming algorithms.
 	-	Counting distinct elements.
 	-	Estimating moments (Alon-Matias-Szegedy algorithm)
 	-	Counting ones in a window.
