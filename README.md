@@ -5,6 +5,12 @@ BigDataNotes
 This course is an introduction to big data analytics. The course will cover algorithmic, statistical and data management aspects of big data analysis. The emphasis is on algorithm whose run time is linear in the size of the input.
 
 
+####	The art of sampling
+
+###	The art of sampling
+
+#####	The art of sampling
+
 ##Curriculum
 
 1. ####	AWS, EC2, S3, Git and Github.
