@@ -1,4 +1,4 @@
-BigDataNotes
+Big Data Analytics
 ============
 
 
