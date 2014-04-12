@@ -4,6 +4,8 @@ Big Data Analytics
 
 This course is an introduction to big data analytics. The course will cover algorithmic, statistical and data management aspects of big data analysis. The emphasis is on algorithm whose run time is linear in the size of the input. 
 
+https://github.com/yoavfreund/UCSD_BigData
+
 ============
 
 Specifically we will cover the following areas:
